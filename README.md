@@ -3,7 +3,7 @@
 
 > Caso práctico de implementación de LLMs en producción — Centro FP Superior
 
-**Equipo:** [Nombre 1] · [Nombre 2] · [Nombre 3]
+**Equipo:** Isabel Curado · Antonio Pérez · Jorge Gómez
 
 ---
 
